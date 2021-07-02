@@ -1,8 +1,8 @@
-# Pancake Factory
+# Java Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+[![Actions Status](https://github.com/javaswap/java-swap-core/workflows/CI/badge.svg)](https://github.com/javaswap/java-swap-core/actions)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth documentation on JavaSwap is available at [docs.javaswap.finance](https://docs.javaswap.finance/).
 
 # Local Development
 
