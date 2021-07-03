@@ -8,7 +8,8 @@
     "url": "https://github.com/javaswapdevelpment/java-swap-core.git"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org"
+    "registry": "http://registry.npmjs.org",
+    "access": "public"
   },
   "files": [
     "contracts",
